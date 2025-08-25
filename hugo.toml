@@ -1,0 +1,7 @@
+baseURL = 'https://borjavelasco.me'
+languageCode = 'es-es'
+title = 'El semanario de la Isla'
+
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-sid/hugo-blog-awesome"
